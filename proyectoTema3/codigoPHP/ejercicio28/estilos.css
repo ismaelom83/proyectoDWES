@@ -1,0 +1,88 @@
+          
+
+
+            .wrap{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+   
+
+}
+            fieldset{
+                display: inline-block;
+                  width: 300px;
+                    height: 300px;
+                    max-height: 100%;
+/*                    border: dotted 2px blue;*/
+                
+            }
+            legend{
+                color: #4caf50;
+                font-size: 22px;
+                text-align: center;
+            }
+            .btn{
+                width: 84%;
+/*                margin-left: 125px;
+                margin-right: 100px;*/
+                color: #ff708c;
+                background-color: #3f51b5;
+                height: 40px;
+            }
+            h1{
+                margin-top: 50px;
+                color: #025877;
+                text-align: center;
+            }
+            h2{
+                text-align: center;
+            }
+            .h12{
+                margin-top: 130px;
+                font-size: 30px;
+            }
+            p{
+                text-align: center;
+                font-size: 18px;
+            }
+            
+            .encuesta{
+                color: #4caf50;
+                font-size: 20px;
+            }
+            h4{
+                color: red;
+                text-align: center;
+                font-size: 20px;
+            }
+            .p1{
+                color: red;
+            }
+            
+            .hora{
+                text-align: center;
+                color: #e64a19;
+            }
+            
+            .obligatorio input{
+                background-color: lightblue;
+            }
+            .obligatorio textarea{
+                background-color: lightblue;
+            }
+            .obligatorio select{
+                background-color: lightblue;
+            }
+            .obligatorio label{
+                text-decoration: underline;
+            }
+            footer{
+                text-align: center;
+            }
+            .error{
+                display: inline-block;
+                background-color: #ff708c;
+               float: right;
+                width: 30%;        
+                border-radius: 10%;
+            }

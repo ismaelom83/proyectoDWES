@@ -1,0 +1,55 @@
+
+
+
+
+.form-control{
+    width: 90%;
+
+}
+
+h1,h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a{
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    font-size: 36px;
+}
+
+fieldset{
+    width: 100%;
+    border: solid 2px blue;
+    padding: 15px; 
+    border-radius: 10px;
+}
+.error{
+    text-align: center;
+    display: inline-block;
+    color: #ff708c;
+    float: right;
+    width: 100%;        
+    border-radius: 10%;
+}
+.wrap{
+    width: 50%;
+    margin: auto;
+    max-width: 500px;
+    margin: auto;
+}
+
+legend {
+
+    text-align: center;
+    font-size: 36px;
+    color: brown;
+}
+
+.botones input{
+    width: 100%;  
+}
+
+

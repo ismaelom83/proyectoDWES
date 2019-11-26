@@ -1,0 +1,34 @@
+[
+    {
+        "CodDepartamento": "DAW",
+        "DescDepartamento": "Despliege de aplicaciones WEB"
+    },
+    {
+        "CodDepartamento": "DIW",
+        "DescDepartamento": "Desarrollo interfaces WEB"
+    },
+    {
+        "CodDepartamento": "DWE",
+        "DescDepartamento": "Desarrollo WEB entorno cliente"
+    },
+    {
+        "CodDepartamento": "DWE",
+        "DescDepartamento": "Desarrollo WEB entorno servidor"
+    },
+    {
+        "CodDepartamento": "EIE",
+        "DescDepartamento": "Empresa e inciativa Emprendedora"
+    },
+    {
+        "CodDepartamento": "JST",
+        "DescDepartamento": "soy jose"
+    },
+    {
+        "CodDepartamento": "PPP",
+        "DescDepartamento": "soy ismael"
+    },
+    {
+        "CodDepartamento": "PRJ",
+        "DescDepartamento": "soy pedro"
+    }
+]

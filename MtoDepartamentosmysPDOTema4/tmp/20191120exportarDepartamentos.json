@@ -1,0 +1,44 @@
+[
+    {
+        "CodDepartamento": "DAW",
+        "DescDepartamento": "Despliege de aplicaciones WEB",
+        "FechaBaja": "2019-11-17",
+        "VolumenNegocio": null
+    },
+    {
+        "CodDepartamento": "DIW",
+        "DescDepartamento": "Desarrollo interfaces WEB",
+        "FechaBaja": "2019-11-17",
+        "VolumenNegocio": null
+    },
+    {
+        "CodDepartamento": "DWEC",
+        "DescDepartamento": "Desarrollo WEB entorno cliente",
+        "FechaBaja": "2019-11-17",
+        "VolumenNegocio": null
+    },
+    {
+        "CodDepartamento": "DWES",
+        "DescDepartamento": "Desarrollo WEB entorno servidor",
+        "FechaBaja": "2019-11-17",
+        "VolumenNegocio": null
+    },
+    {
+        "CodDepartamento": "EIE",
+        "DescDepartamento": "Empresa e inciativa Emprendedora",
+        "FechaBaja": "2019-11-17",
+        "VolumenNegocio": null
+    },
+    {
+        "CodDepartamento": "srr",
+        "DescDepartamento": "compruebo",
+        "FechaBaja": "2019-11-20",
+        "VolumenNegocio": "6"
+    },
+    {
+        "CodDepartamento": "TRu",
+        "DescDepartamento": "hola se",
+        "FechaBaja": "2019-11-09",
+        "VolumenNegocio": "8"
+    }
+]

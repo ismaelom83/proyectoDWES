@@ -1,0 +1,14 @@
+[
+    {
+        "CodDepartamento": "drt",
+        "DescDepartamento": "hola se",
+        "FechaBaja": null,
+        "VolumenNegocio": "4"
+    },
+    {
+        "CodDepartamento": "TRu",
+        "DescDepartamento": "hola se",
+        "FechaBaja": null,
+        "VolumenNegocio": "4"
+    }
+]
